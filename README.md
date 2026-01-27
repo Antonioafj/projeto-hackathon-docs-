@@ -4,7 +4,7 @@
 
 ## 🌐 Acesso Direto (Cloud)
 O projeto está hospedado em ambiente de produção na **Oracle Cloud Infrastructure (OCI)**:
-👉 **URL:** [http://64.181.164.168/](http://64.181.164.168/)
+👉 **URL:** [http://144.22.207.206/](http://144.22.207.206/)
 
 ---
 
